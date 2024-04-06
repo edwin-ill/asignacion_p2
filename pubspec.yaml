@@ -1,0 +1,28 @@
+name: asignacion_p2
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.1.2
+  image_picker: ^1.0.7
+  audioplayers: ^6.0.0
+  just_audio: ^0.9.37
+  flutter_sound: ^9.4.6
+  permission_handler: ^9.0.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
